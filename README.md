@@ -6,8 +6,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Smart Railway Management System**:The Smart Railway Management System is a modern and intelligent solution designed to revolutionize the way railways are managed. This project seamlessly integrates technology to enhance passenger convenience, optimize train schedules, and ensure efficient management of railway operations.
 
 ## 🚀 Skills
 - C,C++, Python
