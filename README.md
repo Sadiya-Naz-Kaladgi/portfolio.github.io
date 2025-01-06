@@ -23,7 +23,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>24ECSC205</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Sadiya Naz Kaladgi</dd>
 <dt>SRN</dt>
